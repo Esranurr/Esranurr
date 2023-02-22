@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esranurkoca/)
 [![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)]
-(https://public.tableau.com/app/profile/esranur.koca)
+(https://public.tableau.com/app/profile/esranur.koca#!/)
 
 <!--
 **Esranurr/Esranurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
